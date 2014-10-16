@@ -1,0 +1,7 @@
+MIDlet-1: 打地鼠, DDS.png, DDS
+MIDlet-Icon: DDS.png
+MIDlet-Name: 打地鼠
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.15
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

@@ -1,0 +1,6 @@
+MIDlet-1: 函数图像, hstx.png, Hstx
+MIDlet-Name: 函数图像
+MIDlet-Vendor: 伪红学家
+MIDlet-Version: 3.12
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

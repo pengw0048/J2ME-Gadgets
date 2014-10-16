@@ -1,0 +1,8 @@
+MIDlet-1: Cross Linez, icon.png, Main
+MIDlet-Jar-Size: 29956
+MIDlet-Jar-URL: CrossLinez.jar
+MIDlet-Name: Cross Linez
+MIDlet-Vendor: 伪红学家
+MIDlet-Version: 1.12
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

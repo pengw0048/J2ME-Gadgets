@@ -1,0 +1,9 @@
+MIDlet-1: 打砖块, Dzk.png, Dzk
+MIDlet-2: 地图编辑, Dzk.png, DzkMaker
+MIDlet-Jar-Size: 6437
+MIDlet-Jar-URL: dzk.jar
+MIDlet-Name: 打砖块
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
